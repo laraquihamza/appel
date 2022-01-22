@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Groups {
+  list-style-type: none;
+  padding: 0;
+}
+
+.Group {
+  margin: auto;
+  padding: 0;
+  width: 200px;
+}
+
+.Group ul {
+  list-style-type: none;
+  text-align: initial;
+}
+
+.Group input {
+  margin: 0 10px;
+}
+
+.Student button {
+  margin-left: 10px;
+}
